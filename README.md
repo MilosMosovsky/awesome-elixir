@@ -273,12 +273,12 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 
 ## Authorization
 *Libraries for implementing Authorization handling.*
-
 * [authorize](https://github.com/jfrolich/authorize) - Rule based authorization, for advanced authorization rules.
 * [bodyguard](https://github.com/schrockwell/bodyguard) - A flexible authorization library for Phoenix applications.
 * [canada](https://github.com/jarednorman/canada) - A simple authorization library that provides a friendly interface using declarative permission rules.
 * [canary](https://github.com/cpjk/canary) - An authorization library for Elixir applications that restricts what resources the current user is allowed to access.
 * [speakeasy](https://github.com/coryodaniel/speakeasy) - Middleware based authentication and authorization for Absinthe GraphQL powered by Bodyguard.
+* [terminator](https://github.com/MilosMosovsky/terminator) - Database based authorization (ACL), with custom DSL rules for requiring needed permissions.
 
 ## Behaviours and Interfaces
 *Definitions how something should behave, like Interfaces from OOP-World*
